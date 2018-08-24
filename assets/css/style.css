@@ -1,14 +1,12 @@
 header {
-    background-color: orange;
     margin-top: 10px;
     margin-bottom: 20px;
     font-size: 40px;
     margin-right: 60%;
-    color: white;
+    color: teal;
 }
 
 .container {
-    background-color: rgb(247, 224, 195);
     margin-right: 50%;
     color: green;
     height: 300px;
@@ -23,12 +21,13 @@ body {
 
 .box {
     background-color: aquamarine;
-    height: 120px;
     margin-right: 90%;
     margin-top: 10px;
+    font-size: 40px;
 }
 
 img {
     height: 83px;
     width: 93px;
 }
+
